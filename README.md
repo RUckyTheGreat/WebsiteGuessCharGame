@@ -35,7 +35,7 @@ Sebuah website game sederhana berbasis HTML/CSS/JavaScript untuk menebak karakte
 
 ## 🗂️ Struktur Proyek
 
-
+```
 ReverseGuessCharWebsite/
 │
 ├── index.html # Halaman utama game
@@ -45,7 +45,7 @@ ReverseGuessCharWebsite/
 └── img/
 ├── *.webp # Ikon karakter & background
 └── *.gif # Animasi karakter
-
+```
 
 ---
 
@@ -62,10 +62,10 @@ Kamu bisa menambahkan karakter baru cukup dengan menambah elemen baru ke array t
 
 ## 🛠 Teknologi Yang Digunakan
 
---💻 HTML5
---🎨 CSS3 (dengan animasi & responsive design)
---⚙️ JavaScript (DOM Manipulation & Game Logic)
---📦 LocalStorage API (untuk simpan skor)
+- 💻 HTML5
+- 🎨 CSS3 (dengan animasi & responsive design)
+- ⚙️ JavaScript (DOM Manipulation & Game Logic)
+- 📦 LocalStorage API (untuk simpan skor)
 
 ---
 ## ✍️ Credits
