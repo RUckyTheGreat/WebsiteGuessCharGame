@@ -1,6 +1,6 @@
 # 🎮 ReverseGuessChar - Tebak Karakter Reverse 1999!
 
-![Banner]([img/Official-Launch-Content-Overview.webp](https://images.rpgsite.net/image/da49c9a1/130719/original/Reverse-1999_20231019_KeyVisual.jpg))
+![Banner](https://images.rpgsite.net/image/da49c9a1/130719/original/Reverse-1999_20231019_KeyVisual.jpg)
 
 Sebuah website game sederhana berbasis HTML/CSS/JavaScript untuk menebak karakter dari game **Reverse: 1999**! Game ini menantang kamu untuk menebak nama karakter berdasarkan inisial, jenis damage, dan afflatus.
 
